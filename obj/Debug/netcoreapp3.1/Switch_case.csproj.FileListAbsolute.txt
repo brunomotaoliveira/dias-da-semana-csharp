@@ -14,3 +14,4 @@ C:\Users\Generation\Documents\DOTNET\Switch_case\Switch_case\obj\Debug\netcoreap
 C:\Users\Generation\Documents\DOTNET\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.dll
 C:\Users\Generation\Documents\DOTNET\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.pdb
 C:\Users\Generation\Documents\DOTNET\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.genruntimeconfig.cache
+C:\Users\Generation\Documents\DOTNET\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.Form2.resources

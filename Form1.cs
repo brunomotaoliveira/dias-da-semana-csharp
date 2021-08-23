@@ -44,5 +44,12 @@ namespace Switch_case
                     break;
             }
         }
+
+        private void btnExemplo_Click(object sender, EventArgs e)
+        {
+            Form2 novo = new Form2();
+            novo.Show();
+            this.Visible = false;
+        }
     }
 }
